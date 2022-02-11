@@ -1,4 +1,4 @@
-[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)]
+![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 <h1 align="center">Hello There 👋, Myself Vansh Nautiyal</h1>
 <h3 align="center">A passionate frontend developer , A ethical Hacker and a National Badminton Player from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
